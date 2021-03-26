@@ -1,10 +1,10 @@
 const catégories = [
-	'transport',
-	'logement',
 	'numérique',
+	'transport',
 	'vêtements',
-	'divers',
 	'nourriture',
+	'divers',
+	'logement',
 ]
 const catégorie = ({ catégorie, dottedName }) => {
 	if (catégorie && catégories.includes(catégorie)) return catégorie
