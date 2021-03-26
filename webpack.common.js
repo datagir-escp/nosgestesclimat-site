@@ -142,7 +142,7 @@ module.exports.HTMLPlugins = ({
 		logo: 'https://nosgestesclimat.fr/dessin-nosgestesclimat.png',
 		chunks: ['publicodes'],
 		title: 'Nos Gestes Climat',
-		description: 'Connaissez-vous votre empreinte sur le climat ?',
+		description: 'Connais-tu ton empreinte sur le climat ?',
 		filename: 'index.html',
 		injectTrackingScript,
 		base: prodPath || '/',

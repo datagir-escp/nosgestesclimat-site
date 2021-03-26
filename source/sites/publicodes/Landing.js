@@ -31,7 +31,7 @@ export default () => {
 				}
 			`}
 		>
-			<h1>Connaissez-vous votre empreinte sur le climat ?</h1>
+			<h1>Connais-tu ton empreinte sur le climat ?</h1>
 			<img src={Illustration} />
 			<div css="margin-bottom: 1rem">
 				<div css="margin: 1rem 0 .6rem;">
