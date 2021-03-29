@@ -28,7 +28,7 @@ Renseignez ici vos appareils parmi ces choix limités.
 		{
 			dottedName: 'alimentation . régime',
 			question:
-				'Choisis les plats de vos midis et dîners pour une semaine type',
+				'Choisis les plats de tes déjeuners et dîners pour une semaine type',
 			description: `
 
 Choisissez 14 plats qui représentent votre semaine type : 7 midi et 7 dîners. 
